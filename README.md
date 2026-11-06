@@ -77,6 +77,16 @@ marker_genes = {
 
 ### Feature Plots 
 
+
+
+<img src="figures/FeaturePlot_Endothelial_Broad.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Epithelial_Broad.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Mesenchymal_Broad.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Immune_Broad.png?v=1" width="100%" />
+
 <img src="figures/FeaturePlot_Mast_cell.png?v=1" width="100%" />
 
 <img src="figures/FeaturePlot_Sweat_glands.png?v=1" width="100%" />
@@ -120,14 +130,6 @@ marker_genes = {
 <img src="figures/FeaturePlot_Erythroid.png?v=1" width="100%" />
 
 <img src="figures/FeaturePlot_Cycling.png?v=1" width="100%" />
-
-<img src="figures/FeaturePlot_Endothelial_Broad.png?v=1" width="100%" />
-
-<img src="figures/FeaturePlot_Epithelial_Broad.png?v=1" width="100%" />
-
-<img src="figures/FeaturePlot_Mesenchymal_Broad.png?v=1" width="100%" />
-
-<img src="figures/FeaturePlot_Immune_Broad.png?v=1" width="100%" />
 
 
 #### Annotations
