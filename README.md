@@ -77,34 +77,57 @@ marker_genes = {
 
 ### Feature Plots 
 
-<img src="figures/FeaturePlot_Mast_cell.png?v=1" width="45%" /><img src="figures/FeaturePlot_Sweat_glands.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Mast_cell.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Nail_Epithelium.png?v=1" width="45%" /><img src="figures/FeaturePlot_MSC.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Sweat_glands.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Rspo3_Col23a1.png?v=1" width="45%" /><img src="figures/FeaturePlot_B-cell.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Nail_Epithelium.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Lymphatic_Endothelial.png?v=1" width="45%" /><img src="figures/FeaturePlot_Neutrophil.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_MSC.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Synoviocyte.png?v=1" width="45%" /><img src="figures/FeaturePlot_Osteoclast.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_B-cell.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_T-cell.png?v=1" width="45%" /><img src="figures/FeaturePlot_Chondrocyte.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Lymphatic_Endothelial.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Osteoblast.png?v=1" width="45%" /><img src="figures/FeaturePlot_Keratinocyte.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Neutrophil.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Macrophage.png?v=1" width="45%" /><img src="figures/FeaturePlot_Fibroblast.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Synoviocyte.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Schwann.png?v=1" width="45%" /><img src="figures/FeaturePlot_SMC.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Osteoclast.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Pericyte.png?v=1" width="45%" /><img src="figures/FeaturePlot_Melanocyte.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_T-cell.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Skeletal_Muscle.png?v=1" width="45%" /><img src="figures/FeaturePlot_Erythroid.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Chondrocyte.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Cycling.png?v=1" width="45%" /><img src="figures/FeaturePlot_Endothelial_Broad.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Osteoblast.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Epithelial_Broad.png?v=1" width="45%" /><img src="figures/FeaturePlot_Mesenchymal_Broad.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Keratinocyte.png?v=1" width="100%" />
 
-<img src="figures/FeaturePlot_Immune_Broad.png?v=1" width="45%" />
+<img src="figures/FeaturePlot_Macrophage.png?v=1" width="100%" />
 
+<img src="figures/FeaturePlot_Fibroblast.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Schwann.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_SMC.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Pericyte.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Melanocyte.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Skeletal_Muscle.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Erythroid.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Cycling.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Endothelial_Broad.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Epithelial_Broad.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Mesenchymal_Broad.png?v=1" width="100%" />
+
+<img src="figures/FeaturePlot_Immune_Broad.png?v=1" width="100%" />
 
 
 #### Annotations
